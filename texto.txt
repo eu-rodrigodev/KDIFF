@@ -3,5 +3,5 @@ C
 D
 E
 F
-Teste git bicolito
+Teste
 Paz
